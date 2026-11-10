@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://weightlosslancaster.com/sitemap.xml
